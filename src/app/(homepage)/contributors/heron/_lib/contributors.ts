@@ -34,7 +34,7 @@ export const contributors: Contributor[] = [
   { name: "Eniola Adegbiyan", zeduUsername: "Arcsquid" },
   { name: "Oluwadunsin Oluwaleye", zeduUsername: "oluwadunsinoluwaleye" },
   { name: "Anu John", zeduUsername: "Oyetoke Anu" },
-  { name: "Nwabueze Jeremiah Nwite", zeduUsername: "nwabueze jeremiah nwite" },
+  { name: "Jeremiah Nwabueze Nwite", zeduUsername: "nwabueze jeremiah nwite" },
   { name: "Ayotomiwa Ayorinde", zeduUsername: "zamaar" },
   { name: "Kesiena Cruz Ohwots", zeduUsername: "kesiena_cruz" },
   { name: "Fikayo Olorode", zeduUsername: "fikayo olorode" },
