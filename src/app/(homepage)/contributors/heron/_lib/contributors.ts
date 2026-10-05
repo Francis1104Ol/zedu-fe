@@ -42,7 +42,7 @@ export const contributors: Contributor[] = [
   { name: "Ukanna Raymond", zeduUsername: "ukanna raymond" },
   { name: "Molly", zeduUsername: "Remaswoman" },
   { name: "Zakari Muhammad Samu", zeduUsername: "ZakariMS" },
-  { name: "Taiwo Francis", zeduUsername: "taiwofrancis001" },
+  { name: "Taiwo Francis O", zeduUsername: "taiwofrancis001" },
   { name: "Adenike Bamigbade", zeduUsername: "Adenike_Bamigbade" },
   { name: "Timi Abiola", zeduUsername: "tecnine" },
   { name: "Nana", zeduUsername: "Lanfear" },
